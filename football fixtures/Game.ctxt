@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\n\ Klasse\ Game,\ wird\ als\ speicher\ benutzt\n\ \n\ @Vanessa\ Hartl,\ Hochschule\ f\u00FCr\ Gestaltung,\ IoT\ Semester\ 3\n\ @29.06.2018\n
+comment1.params=id\ firstCountry\ secondCountry\ firstGoals\ secondGoals\ phase
+comment1.target=Game(int,\ int,\ int,\ int,\ int,\ java.lang.String)
+comment1.text=\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Game\n
+comment2.params=
+comment2.target=int\ getFirstCountry()
+comment3.params=
+comment3.target=int\ getSecondCountry()
+comment4.params=
+comment4.target=int\ getFirstGoals()
+comment5.params=
+comment5.target=int\ getSecondGoals()
+comment6.params=spacer
+comment6.target=java.lang.String\ getString(java.lang.String)
+numComments=7

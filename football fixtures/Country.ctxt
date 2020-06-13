@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Country
+comment0.text=\n\ Klasse\ Country,\ wird\ als\ Speicher\ benutzt\n\ \n\ @Vanessa\ Hartl,\ Hochschule\ f\u00FCr\ Gestaltung,\ IoT\ Semester\ 3\n\ @29.06.2018\n
+comment1.params=id\ name\ group
+comment1.target=Country(int,\ java.lang.String,\ java.lang.String)
+comment1.text=\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Country\n
+comment2.params=
+comment2.target=java.lang.String\ getGroup()
+comment3.params=
+comment3.target=int\ getId()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=spacer
+comment5.target=java.lang.String\ getString(java.lang.String)
+numComments=6

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=UI
+comment0.text=\n\ UI\ ist\ die\ main\ Klasse,\ welche\ daf\u00FCr\ zust\u00E4ndig\ ist,\ mit\ dem\ User\ zu\ interagieren\n\ \n\ \n\ @Vanessa\ Hartl,\ Hochschule\ f\u00FCr\ Gestaltung,\ IoT\ Semester\ 3\n\ @29.06.2018\n
+comment1.params=
+comment1.target=UI()
+comment1.text=\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ UI\n\ erstellt\ ein\ Window\ um\ die\ Eingabem\u00F6glichkeiten\ darzustellen\n\ hier\ wird\ die\ Eingabe\ von\ html\ erlaubt,\ somit\ entsteht\ unn\u00F6tige\ komlexit\u00E4t\n
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ standardAction()
+comment2.text=\n\ standardaktion,\ wird\ beim\ starten\ des\ programmes\ ausgef\u00FChrt\ \n\ (Kann\ in\ einem\ loop\ laufen)\n\ \n\ speichern\ &\ beenden\ bei\ Eingabe\ von\ 0\ \n\ spiel\ eingeben\ bei\ Eingabe\ von\ 1\ \n\ spielplan\ ausgeben\ bei\ Eingabe\ von\ 2\n\ spiele\ ausgeben\ bei\ Eingabe\ von\ 3\n\ speichern\ bei\ Eingabe\ von\ 4\ \n\ abbruch\ bei\ Eingabe\ von\ 10\ \n\ (ich\ habe\ mich\ f\u00FCr\ 10\ entschieden,\ da\ man\ diese\ Zahlenkombi\ nicht\ ausversehen\ eingeben\ kann)\n\ \n
+comment3.params=message
+comment3.target=void\ putInformation(java.lang.String)
+comment4.params=height
+comment4.target=void\ setLabelHeight(int)
+comment5.params=
+comment5.target=void\ updateWindowHeight()
+comment6.params=message
+comment6.target=java.lang.String\ getInformation(java.lang.String)
+comment7.params=countries
+comment7.target=java.lang.String\ renderMatches(java.util.ArrayList)
+comment8.params=message
+comment8.target=void\ showWarning(java.lang.String)
+comment9.params=
+comment9.target=int\ renderGameList()
+numComments=11

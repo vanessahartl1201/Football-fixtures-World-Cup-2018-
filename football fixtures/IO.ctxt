@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=IO
+comment0.text=\n\ Die\ Klasse\ nimmt\ Objekte\ entgegen\ und\ gibt\ Objekte\ zur\u00FCck.\n\ \n\ @Vanessa\ Hartl,\ Hochschule\ f\u00FCr\ Gestaltung,\ IoT\ Semester\ 3\n\ @29.06.2018\n
+comment1.params=
+comment1.target=IO()
+comment1.text=\n\ Konstruktor\ von\ IO\n
+comment2.params=
+comment2.target=java.util.List\ loadFiles()
+comment2.text=\n\ Checkt\ die\ existens\ von\ files,\ erstellt\ files\ wenn\ sie\ nicht\ existieren\n\ Gibt\ die\ daten\ der\ files\ in\ einem\ array\ aus\ und\ l\u00E4dt\ diese\n\ Ich\ h\u00E4tte\ auch\ einen\ integer\ type\ benutzen\ k\u00F6nnen,\ um\ die\ informationen\ wie\ den\ amount\ der\ erstellten\ files\ auszugeben\ wenn\ ben\u00F6tigt\n\ \n\ @return\ \ \ \ \ \ \ Array\ of\ datablocks\ from\ all\ files\n
+comment3.params=data
+comment3.target=void\ saveGames(java.util.List)
+comment4.params=data
+comment4.target=void\ saveCountries(java.util.List)
+comment5.params=data\ storage
+comment5.target=void\ loadGames(java.util.List,\ Storage)
+comment6.params=data\ storage
+comment6.target=void\ loadCountries(java.util.List,\ Storage)
+comment7.params=data\ fileName
+comment7.target=void\ writeFile(java.lang.String[],\ java.lang.String)
+numComments=8
